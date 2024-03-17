@@ -20,17 +20,7 @@
 
 <hr/>
 
-一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。
-
-
-## 预览效果
-
-在线演示：[https://preview.Lookusluo.com/](https://preview.Lookusluo.com/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
-
-| Next | Medium | Hexo | Fukasawa |
-|--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.Lookusluo.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.Lookusluo.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.Lookusluo.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.Lookusluo.com/?theme=fukasawa) |
-
+一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。
 
 ## 引用技术
 

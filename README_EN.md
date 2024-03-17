@@ -20,17 +20,7 @@
 
 <hr/>
 
-A static blog system built with NextJS and Notion API, deployed on Vercel. Designed for Notion and all creators.
-
-
-## Preview
-
-Live Demo：[https://preview.Lookusluo.com/](https://preview.Lookusluo.com/) ，Project supports switching between multiple themes. Can't find a theme you like? How about [contributing](/CONTRIBUTING.md) one?~
-
-| Next | Medium | Hexo | Fukasawa |
-|--|--|--|--|
-| <img src='./docs/theme-next.png' width='300'/> [NEXT](https://preview.Lookusluo.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [MEDIUM](https://preview.Lookusluo.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [HEXO](https://preview.Lookusluo.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [FUKASAWA](https://preview.Lookusluo.com/?theme=fukasawa) |
-
+A static blog system built with NextJS and Notion API, deployed on Vercel. 
 
 ## Technologies Used
 
